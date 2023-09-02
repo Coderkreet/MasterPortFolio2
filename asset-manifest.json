@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/MasterPortFolio2/static/css/main.b0dae52f.css",
+    "main.js": "/MasterPortFolio2/static/js/main.8a5d5bc8.js",
+    "static/media/Oriental.png": "/MasterPortFolio2/static/media/Oriental.d4d0569aaacc861a7b1c.png",
+    "static/media/Apple MacBook Air Silver.png": "/MasterPortFolio2/static/media/Apple MacBook Air Silver.72053028db57e0f35c5b.png",
+    "static/media/RCC_logo.png": "/MasterPortFolio2/static/media/RCC_logo.b87eb44f7d7f56fdbf57.png",
+    "static/media/MyLogo.png": "/MasterPortFolio2/static/media/MyLogo.2465cdf77ad7f140152b.png",
+    "static/media/sass.png": "/MasterPortFolio2/static/media/sass.c556a176a8b7d49fb670.png",
+    "static/media/Insta.png": "/MasterPortFolio2/static/media/Insta.62682ea23405f5543ce3.png",
+    "static/media/Whatsaap.png": "/MasterPortFolio2/static/media/Whatsaap.7498329da942f479f7fa.png",
+    "static/media/MongoDb.png": "/MasterPortFolio2/static/media/MongoDb.2f81ed7ec1fd818da1b5.png",
+    "static/media/home-main.svg": "/MasterPortFolio2/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/C++.png": "/MasterPortFolio2/static/media/C++.d1ae0903988954aa0bd7.png",
+    "static/media/Java.png": "/MasterPortFolio2/static/media/Java.5d5cffa04d820ba0644c.png",
+    "static/media/JavaScript.png": "/MasterPortFolio2/static/media/JavaScript.166865dacb77d214f485.png",
+    "static/media/Linkdin.png": "/MasterPortFolio2/static/media/Linkdin.ccddf4eedf1967c36123.png",
+    "static/media/Githhub.png": "/MasterPortFolio2/static/media/Githhub.0182568c97d266ea7bb2.png",
+    "static/media/Docker.png": "/MasterPortFolio2/static/media/Docker.86d2409eb002779606f7.png",
+    "static/media/Reactjs.png": "/MasterPortFolio2/static/media/Reactjs.20adfb35ae6a6e5817bf.png",
+    "static/media/project-management.png": "/MasterPortFolio2/static/media/project-management.93e0a1af2759e29a2e6f.png",
+    "static/media/Git.png": "/MasterPortFolio2/static/media/Git.6ae876b7ebb2b2739034.png",
+    "static/media/C.png": "/MasterPortFolio2/static/media/C.1f0c223a56e5def74083.png",
+    "static/media/Nodejs.png": "/MasterPortFolio2/static/media/Nodejs.efa9c0b4c365a0f266f1.png",
+    "static/media/GithHub.png": "/MasterPortFolio2/static/media/GithHub.29c0a9e52942ffc731e6.png",
+    "static/media/Mail.png": "/MasterPortFolio2/static/media/Mail.9cf61c47a6c983cded9c.png",
+    "static/media/Css.png": "/MasterPortFolio2/static/media/Css.99426a611bd5b768e71d.png",
+    "static/media/Python.png": "/MasterPortFolio2/static/media/Python.f7f12e1bf59e577656a2.png",
+    "static/media/avatar.svg": "/MasterPortFolio2/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/Contect.svg": "/MasterPortFolio2/static/media/Contect.dac447e1308531cf709601c934d5235f.svg",
+    "static/media/Education.svg": "/MasterPortFolio2/static/media/Education.f7fcb2bfd93ff9de0258cafa109039fe.svg",
+    "static/media/ikqra03zdnggljdu5vv0.webp": "/MasterPortFolio2/static/media/ikqra03zdnggljdu5vv0.e21c4c7971aeb53a7d5f.webp",
+    "static/media/Leetcode.svg": "/MasterPortFolio2/static/media/Leetcode.5e7625ddc0159081fa3e9d17c29dad26.svg",
+    "index.html": "/MasterPortFolio2/index.html",
+    "static/media/udemy-3.svg": "/MasterPortFolio2/static/media/udemy-3.a5a9f8a55eb6b3bbc89a8f70358a365c.svg",
+    "main.b0dae52f.css.map": "/MasterPortFolio2/static/css/main.b0dae52f.css.map",
+    "main.8a5d5bc8.js.map": "/MasterPortFolio2/static/js/main.8a5d5bc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0dae52f.css",
+    "static/js/main.8a5d5bc8.js"
+  ]
+}
